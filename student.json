@@ -1,0 +1,13 @@
+{
+    
+    "studendetails" : [
+    {
+        "ID" : "001",
+        "ID1" : "002",
+        "fname" : "Kazim",
+        "lname" : "Hussain",
+        "age": "18",
+        "Disabled" : "false"
+    }
+]
+}
